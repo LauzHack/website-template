@@ -1,0 +1,15 @@
+# Schedule, optional.
+# Don't forget quotes around hours, otherwise the colons will mess stuff up.
+
+Saturday:
+  '7:30-9:30': Breakfast
+  '9:30-10:00': Opening ceremony
+  '10:20-12:00': Sponsors Presentation
+  '12:30-13:30': Lunch
+  '18:30-19:30': Dinner
+
+Sunday:
+  '0:00-1:00': Midnight snack
+  '7:00-9:00': Breakfast
+  '11:30-12:30': Lunch
+  '15:00-17:00': Closing ceremony

@@ -1,0 +1,26 @@
+# The group organizing the event, and its legal stuff. Optional.
+group:
+  name: the Example Association
+  statutes: http://example.com
+  assemblies:
+    January 1950 (Constitutive): http://example.org
+    January 2000: http://example.org
+
+# People organizing the event, and their websites.
+# See the ReadMe file for information on pictures.
+people:
+  - first: Alice
+    last: Example
+    link: http://example.org
+  
+  - first: Bob
+    last: Example
+    link: http://example.org
+
+  - first: Carol
+    last: Example
+    link: http://example.org
+
+  - first: Daniel
+    last: Example
+    link: http://example.org

@@ -1,0 +1,25 @@
+# Workshops around the event, optional.
+
+# Workshops name
+name: Example Workshops
+
+# Workshops description
+description: Join us for short workshops!
+
+# Newsletter for workshops using MailChimp
+# Get those from the MailChimp embed - the form action and the 'real people should not fill this' input name
+mailchimp_action: 'http://example.org'
+mailchimp_bot_input: '???'
+
+# All past and future workshops
+# Workshops have a date (in structured form), a signup link, and a description.
+items:
+  Future Workshop Example:
+    date: '3000-01-01 18:00'
+    signup: 'http://example.org'
+    description: Learn things, in the future!
+
+  Past Workshop Example:
+    date: '2010-01-01 18:00'
+    signup: 'http://example.org'
+    description: Learn things, in the past!
