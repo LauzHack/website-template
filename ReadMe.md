@@ -10,6 +10,8 @@ Generic website for events, whose main target is [LauzHack](https://lauzhack.com
 
 ## How-To
 
+First, install [Jekyll](https://jekyllrb.com/docs/installation/) which this template uses.
+
 All configuration files are extensively commented.
 
 - **Overall configuration**: Edit `_data/info.yml`.  
