@@ -1,6 +1,9 @@
 # The group organizing the event, and its legal stuff. Optional.
 group:
   name: the Example Association
+  # Either use 'link' for an external page (e.g. if you already have a website), ...
+  link:
+  # ...or use the built-in /legal page and provide links to the statutes and general assembly minutes
   statutes: http://example.com
   assemblies:
     January 1950 (Constitutive): http://example.org
