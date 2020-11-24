@@ -1,5 +1,6 @@
 # Schedule, optional.
 # Don't forget quotes around hours, otherwise the colons will mess stuff up.
+# Use an empty string ('') for the day names if you do not want headers.
 
 Saturday:
   '7:30-9:30': Breakfast
